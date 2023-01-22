@@ -2,7 +2,7 @@
 {
     "name": "Kitchen Screen by ZUSE",
     "support": "info@zuse.solutions",
-    "version": "15.0.1",
+    "version": "16.0.1",
     "summary": "POS,Point of sale kitchen screen,kitchen scren,POS kitchen screen,KDS,kds",
     "description": """
         ZUSE KDS Integration with Odoo,
